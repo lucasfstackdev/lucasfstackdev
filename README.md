@@ -98,7 +98,7 @@ Sistema para gestão de chamados internos e atendimento entre equipes e clientes
 Imagens:
 
 <p align="center">
-	<img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="auto" height="405px" alt="Chamados 1" />
+	<img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="auto" height="380px" alt="Chamados 1" />
 	<img src="https://storage.googleapis.com/arquivos-pessoais/chamados/003.png" width="180px" alt="Chamados 2" />
 </p>
 
