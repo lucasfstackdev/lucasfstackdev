@@ -9,10 +9,6 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=0E7490&center=true&vCenter=true&width=900&lines=Construindo+produtos+web+e+mobile+com+foco+em+escalabilidade;Arquitetura+limpa%2C+performance+e+experi%C3%AAncia+do+usu%C3%A1rio;Dispon%C3%ADvel+para+projetos+freelance+e+times+de+alta+performance" alt="Typing SVG" />
 </p>
 
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=lucasfreire&label=Profile%20views&color=0e7490&style=for-the-badge" alt="Profile views" />
-</p>
-
 ## Sobre mim
 
 Sou desenvolvedor Full Stack com forte atuação em projetos web e mobile de ponta a ponta, desde arquitetura até publicação e evolução contínua. Tenho experiência prática em produtos para recrutamento, logística e gestão operacional, trabalhando com foco em performance, manutenibilidade e resultado de negócio.
