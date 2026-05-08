@@ -66,9 +66,11 @@ Solução para conectar candidatos e recrutadores com foco em agilidade de contr
 Imagens:
 
 <p align="center">
-	<img src="https://storage.googleapis.com/arquivos-pessoais/memprega/001.png" width="180px" alt="Vagas 1" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/memprega/002.png" width="180px" alt="Vagas 2" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/memprega/003.png" width="180px" alt="Vagas 3" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-001.png" width="180px" alt="Vagas 1" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-002.png" width="180px" alt="Vagas 2" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-003.png" width="180px" alt="Vagas 3" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-004.png" width="180px" alt="Vagas 4" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-005.png" width="180px" alt="Vagas 5" />
 </p>
 
 ### 2. App de Serviços para Caminhoneiros
@@ -80,9 +82,9 @@ Aplicativo para conectar caminhoneiros a empresas de manutenção e serviços de
 Imagens:
 
 <p align="center">
-	<img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/001.png" width="180px" alt="Sostruck 1" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/002.png" width="180px" alt="Sostruck 2" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/003.png" width="180px" alt="Sostruck 3" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-truck-001.png" width="180px" alt="Sostruck 1" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-truck-002.png" width="180px" alt="Sostruck 2" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-truck-003.png" width="180px" alt="Sostruck 3" />
 </p>
 
 ### 3. App de Chamados e Tarefas
@@ -94,8 +96,11 @@ Sistema para gestão de chamados internos e atendimento entre equipes e clientes
 Imagens:
 
 <p align="center">
-	<img src="https://storage.googleapis.com/arquivos-pessoais/chamados/001.png" width="auto" height="250px" alt="Chamados 1" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/chamados/003.png" width="180px" alt="Chamados 2" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-001.png" width="auto" height="250px"
+		alt="Chamados 1" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-002.png" width="180px" alt="Chamados 2" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-003.png" width="180px" alt="Chamados 3" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-004.png" width="180px" alt="Chamados 4" />	
 </p>
 
 ## 🧠 Diferenciais
