@@ -70,7 +70,7 @@ Imagens:
 	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-002.png" width="180px" alt="Vagas 2" />
 	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-003.png" width="180px" alt="Vagas 3" />
 	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-004.png" width="180px" alt="Vagas 4" />
-	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-005.png" width="180px" alt="Vagas 5" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/app-jobs-005.png" width="360px" alt="Vagas 5" />
 </p>
 
 ### 2. App de Serviços para Caminhoneiros
@@ -96,11 +96,11 @@ Sistema para gestão de chamados internos e atendimento entre equipes e clientes
 Imagens:
 
 <p align="center">
-	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-001.png" width="auto" height="250px"
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-001.png" width="auto" height="360px"
 		alt="Chamados 1" />
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-004.png" width="360px" alt="Chamados 4" />	
 	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-002.png" width="180px" alt="Chamados 2" />
-	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-003.png" width="180px" alt="Chamados 3" />
-	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-004.png" width="180px" alt="Chamados 4" />	
+	<img src="https://storage.googleapis.com/public_users_data/my-portfolio/chamados-003.png" width="180px" alt="Chamados 3" />	
 </p>
 
 ## 🧠 Diferenciais
