@@ -9,6 +9,10 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=700&color=0E7490&center=true&vCenter=true&width=900&lines=Construindo+produtos+web+e+mobile+com+foco+em+escalabilidade;Arquitetura+limpa%2C+performance+e+experi%C3%AAncia+do+usu%C3%A1rio;Dispon%C3%ADvel+para+projetos+freelance+e+times+de+alta+performance" alt="Typing SVG" />
 </p>
 
+<!-- <p align="center">
+	<img src="https://komarev.com/ghpvc/?username=lucasfreire&label=Profile%20views&color=0e7490&style=for-the-badge" alt="Profile views" />
+</p> -->
+
 ## Sobre mim
 
 Sou desenvolvedor Full Stack com forte atuação em projetos web e mobile de ponta a ponta, desde arquitetura até publicação e evolução contínua. Tenho experiência prática em produtos para recrutamento, logística e gestão operacional, trabalhando com foco em performance, manutenibilidade e resultado de negócio.
@@ -64,15 +68,17 @@ Aplicativo que permite navegar entre produtos, categorias, ofertas e fazer compr
 
 Imagens:
 
-<p align="center">
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/001.png" width="140px" alt="1" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/002.jpg" width="140px" alt="2" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/003.jpg" width="140px" alt="3" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/004.jpg" width="140px" alt="4" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/005.jpg" width="140px" alt="5" />
-</p>
+<table align="center">
+	<tr>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/001.png" width="150px" alt="1" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/002.jpg" width="150px" alt="2" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/003.jpg" width="150px" alt="3" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/004.jpg" width="150px" alt="4" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/005.jpg" width="150px" alt="5" /></td>
+	</tr>
+</table>
 
-### 1. Plataforma de Vagas e Recrutamento
+### 2. Plataforma de Vagas e Recrutamento
 Solução para conectar candidatos e recrutadores com foco em agilidade de contratação.
 
 - Stack: Angular (Web), Flutter (Mobile com WebView), PHP (Backend)
@@ -80,13 +86,15 @@ Solução para conectar candidatos e recrutadores com foco em agilidade de contr
 
 Imagens:
 
-<p align="center">
-	<img src="https://storage.googleapis.com/arquivos-pessoais/memprega/001.png" width="180px" alt="Vagas 1" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/memprega/002.png" width="180px" alt="Vagas 2" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/memprega/003.png" width="180px" alt="Vagas 3" />
-</p>
+<table align="center">
+	<tr>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/memprega/001.png" width="180px" alt="Vagas 1" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/memprega/002.png" width="180px" alt="Vagas 2" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/memprega/003.png" width="180px" alt="Vagas 3" /></td>
+	</tr>
+</table>
 
-### 2. App de Serviços para Caminhoneiros
+### 3. App de Serviços para Caminhoneiros
 Aplicativo para conectar caminhoneiros a empresas de manutenção e serviços de apoio em rota.
 
 - Stack: React Native (Mobile), Node.js + Express (Backend)
@@ -94,13 +102,15 @@ Aplicativo para conectar caminhoneiros a empresas de manutenção e serviços de
 
 Imagens:
 
-<p align="center">
-	<img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/001.png" width="180px" alt="Sostruck 1" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/002.png" width="180px" alt="Sostruck 2" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/003.png" width="180px" alt="Sostruck 3" />
-</p>
+<table align="center">
+	<tr>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/001.png" width="180px" alt="Sostruck 1" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/002.png" width="180px" alt="Sostruck 2" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/sostruck/003.png" width="180px" alt="Sostruck 3" /></td>
+	</tr>
+</table>
 
-### 3. App de Chamados e Tarefas
+### 4. App de Chamados e Tarefas
 Sistema para gestão de chamados internos e atendimento entre equipes e clientes, com interface responsiva.
 
 - Stack: Angular (Frontend), Node.js + Express (Backend)
