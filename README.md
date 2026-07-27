@@ -65,11 +65,11 @@ Aplicativo que permite navegar entre produtos, categorias, ofertas e fazer compr
 Imagens:
 
 <p align="center">
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/001.png" width="180px" alt="1" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/002.jpg" width="180px" alt="2" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/003.jpg" width="180px" alt="3" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/004.jpg" width="180px" alt="4" />
-	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/005.jpg" width="180px" alt="5" />
+	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/001.png" width="140px" alt="1" />
+	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/002.jpg" width="140px" alt="2" />
+	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/003.jpg" width="140px" alt="3" />
+	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/004.jpg" width="140px" alt="4" />
+	<img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/005.jpg" width="140px" alt="5" />
 </p>
 
 ### 1. Plataforma de Vagas e Recrutamento
