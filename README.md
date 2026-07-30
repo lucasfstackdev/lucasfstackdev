@@ -74,14 +74,18 @@ Imagens:
 <table align="center">
 	<tr>
 		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/001.png" width="150px" alt="1" /></td>
-		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/002.jpg" width="150px" alt="2" /></td>
+		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/002.jpg" width="150px" alt="2" /></td>				
+	</tr>
+	<tr>
 		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/003.jpg" width="150px" alt="3" /></td>
 		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/004.jpg" width="150px" alt="4" /></td>
+	</tr>
+	<tr>
 		<td><img src="https://storage.googleapis.com/arquivos-pessoais/proj-farmacia/005.jpg" width="150px" alt="5" /></td>
 	</tr>
 </table>
 
-### 2. Plataforma de Vagas e Recrutamento
+### 1. Plataforma de Vagas e Recrutamento
 Solução para conectar candidatos e recrutadores com foco em agilidade de contratação.
 
 - Stack: Angular (Web), Flutter (Mobile com WebView), PHP (Backend)
@@ -97,7 +101,7 @@ Imagens:
 	</tr>
 </table>
 
-### 3. App de Serviços para Caminhoneiros
+### 2. App de Serviços para Caminhoneiros
 Aplicativo para conectar caminhoneiros a empresas de manutenção e serviços de apoio em rota.
 
 - Stack: React Native (Mobile), Node.js + Express (Backend)
@@ -113,7 +117,7 @@ Imagens:
 	</tr>
 </table>
 
-### 4. App de Chamados e Tarefas
+### 3. App de Chamados e Tarefas
 Sistema para gestão de chamados internos e atendimento entre equipes e clientes, com interface responsiva.
 
 - Stack: Angular (Frontend), Node.js + Express (Backend)
